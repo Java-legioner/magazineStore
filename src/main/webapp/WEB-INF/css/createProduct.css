@@ -1,0 +1,23 @@
+.createProduct{
+    padding: 20px;
+    border: 2px solid #cddc39;
+    border-radius: 10px;
+    margin-left: 30px;
+    background-color: #343a40!important;
+    width: 600px;
+}
+
+.create {
+    color: #343a40!important;
+    background-color: #cddc39!important;
+    border-color: #cddc39!important;
+}
+
+.cont{
+    min-height: 60vh;
+
+}
+
+.center{
+    justify-content: center;
+}
